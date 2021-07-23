@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JameseGraham
 - 👀 I’m interested in PIC 32 bit
-- 🌱 I’m currently learning about the same5j20a
+- 🌱 I’m currently learning about the samE51J20A
 - 📫 How to reach me at jamesegraham@comcast.net
 
 <!---
